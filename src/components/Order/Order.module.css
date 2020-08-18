@@ -1,0 +1,16 @@
+.Order{
+    width:80%;
+    box-sizing: border-box;
+    margin: 10px auto;
+    padding: 10px;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+}
+
+.Ingrediants{
+    display: inline-block;
+    border: 1px solid #eee;
+    padding:5px;
+    margin: 0 5px;
+    text-transform: capitalize;
+}
